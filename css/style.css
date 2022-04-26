@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+    }
+    
+    body {
+      height: 100vh;
+      margin: 0;
+      overflow-x: hidden;
+    }
+
+
+    /* Tekster */
+
+
+    /* Billeder */
+    #banner{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .menupunkt {
+        display: block;
+
+        margin-left: auto;
+        margin-right: auto;
+        height: 40%;
+    }
+
+    /* Andre elementer */
