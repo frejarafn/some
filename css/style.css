@@ -169,6 +169,13 @@ li{
         height: 60%;
     }
 
+    .seoimg{
+        display: block;
+        padding-left: 290px;
+        max-width: 55%;
+
+    }
+
     .content {
         display: block;
 
