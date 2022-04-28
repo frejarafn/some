@@ -21,20 +21,28 @@
 
  h1{
      font-family: var(--overskrift);
+     text-align: center;
 
  }  
 
  h2{
     font-family: var(--overskrift);
+    text-align: center;
 
   }
 
 h3{
     font-family: var(--overskrift);
+    text-align: center;
   
 
 }
-    
+h4{
+    font-family: var(--overskrift);
+    text-align: center;
+  
+
+}
 p{
     font-family:var(--broedtekst);
     font-size: 18px;
