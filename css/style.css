@@ -90,7 +90,8 @@ li{
     font-size: 15px;
     margin-left: 20%;
 }
-   
+
+
 
 
 
@@ -114,6 +115,10 @@ li{
         margin-left: auto;
         margin-right: auto; */
         height: 300px;
+    }
+
+    #lukmigind{
+        color: aqua;
     }
 
     #someillu {
