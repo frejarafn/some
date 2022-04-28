@@ -21,20 +21,28 @@
 
  h1{
      font-family: var(--overskrift);
+     text-align: center;
 
  }  
 
  h2{
     font-family: var(--overskrift);
+    text-align: center;
 
   }
 
 h3{
     font-family: var(--overskrift);
+    text-align: center;
   
 
 }
-    
+h4{
+    font-family: var(--overskrift);
+    text-align: center;
+  
+
+}
 p{
     font-family:var(--broedtekst);
     font-size: 18px;
@@ -53,6 +61,21 @@ li{
   
 }
 
+#overskrift {
+    font-size: 20px;
+    margin-left: 20%;
+}
+
+#overskrift2 {
+    font-size: 20px;
+    margin-left: 20%;
+}
+
+#kampagne {
+    font-size: 40px;
+    margin-left: 20%;
+}
+
 /* classes */
 
 .pad{
@@ -62,7 +85,14 @@ li{
 .pad2{
     padding-left: 563px;
 }
+
+.overskrift{
+    font-size: 15px;
+    margin-left: 20%;
+}
    
+
+
 
     /* Billeder */
     #banner{
@@ -118,4 +148,21 @@ li{
         height: 70%;
     }
 
+    .content {
+        display: block;
+
+      margin-left: auto;
+        margin-right: auto;
+        max-width: 50%;
+
+    }
+   
+    .kalender{
+        display: block;
+
+        margin-left: auto;
+          margin-right: auto;
+          max-width: 50%;
+    } 
+    
     /* Andre elementer */
