@@ -1,5 +1,8 @@
 
-
+:root{
+    --broedtekst: 'lato';
+    --overskrift:'lato';
+}
 
 *{
     margin: 0;
@@ -16,12 +19,24 @@
     }
 
     /* Typografi */
+
+ h1{
+     font-family: var(--overskrift);
+ }  
+
+ h2{
+    font-family: var(--overskrift);
+} 
+
+h3{
+    font-family: var(--overskrift);
+}
+    
 p{
     max-width: 75ch;
-    font-family:"lato";
+    font-family:var(--broedtekst);
 }
    
-
 
     /* Billeder */
     #banner{
