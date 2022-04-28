@@ -76,6 +76,7 @@ li{
     margin-left: 20%;
 }
 
+
 /* classes */
 
 .pad{
@@ -117,7 +118,7 @@ li{
         height: 300px;
     }
 
-    #lukmigind{
+    .lukmigind{
         color: aqua;
     }
 
@@ -170,3 +171,26 @@ li{
     } 
     
     /* Andre elementer */
+
+    /* log ind siden */
+
+
+    #lukmigind{
+        background-color: aqua;
+    }
+
+    #loginlogo{
+        max-width: 100%;
+        max-height: 100%;
+
+    }
+
+    .cat{
+        width: 500px;
+        height: 500px;
+        margin-left: auto;
+        margin-right: auto;
+        padding-top: 30px;
+       
+    }
+
