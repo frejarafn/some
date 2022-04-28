@@ -136,8 +136,7 @@ li{
     }
     #someeaa {
         display: block;
-        margin-left: auto;
-        margin-right: auto;
+        padding-left: 287px;
         max-width: 70%;
     }
     #freja {
