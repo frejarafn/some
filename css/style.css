@@ -185,13 +185,17 @@ li{
 
     }
 
-    button{
+    #logsec{
+        
+    }
+
+    #loginbutton{
         background-color: RGB(133, 180, 190);
         color: rgb(255, 255, 255);
         border-radius: 5px;
-       
-       
         font-family: var(--broedtekst);
+
+      
     }
     #logindDiv{
         
@@ -206,3 +210,36 @@ li{
        
     }
 
+    .animer {
+        animation: bounceIn 3s ease-in-out;
+        font-size: 100px;
+        text-align: center;
+        font-family: var(--overskrift);
+        color: white;
+       
+        
+      }
+      
+      @keyframes fadeIn {
+        from {
+          opacity: 0;
+        }
+        to {
+          opacity: 1;
+        }
+      }
+      
+      @keyframes bounceIn {
+        0% {
+          transform: scale(0.1);
+          opacity: 0;
+        }
+        60% {
+          transform: scale(1.2);
+          opacity: 1;
+        }
+        100% {
+          transform: scale(1);
+        }
+      }
+      
