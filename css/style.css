@@ -39,6 +39,9 @@ p{
 
 li{
     font-family:var(--broedtekst);
+
+    list-style-type: circle;
+  
 }
    
 
