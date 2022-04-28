@@ -51,6 +51,21 @@ li{
   
 }
 
+#overskrift {
+    font-size: 20px;
+    margin-left: 20%;
+}
+
+#overskrift2 {
+    font-size: 20px;
+    margin-left: 20%;
+}
+
+#kampagne {
+    font-size: 40px;
+    margin-left: 20%;
+}
+
 /* classes */
 
 .pad{
@@ -60,7 +75,20 @@ li{
 .pad2{
     padding-left: 563px;
 }
+
+.overskrift{
+    font-size: 15px;
+    margin-left: 20%;
+}
    
+.kalender{
+    margin: 5%;
+}    
+
+.content {
+    margin: 5%;
+    max-width: 1em;
+}
 
     /* Billeder */
     #banner{
