@@ -197,9 +197,16 @@ li{
 
       
     }
-    #logindDiv{
-        
+    #logoututton{
+        background-color: RGB(133, 180, 190);
+        color: rgb(255, 255, 255);
+        border-radius: 5px;
+        font-family: var(--broedtekst);
+
+      
     }
+        
+    
 
     .cat{
         width: 500px;
