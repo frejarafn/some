@@ -138,14 +138,14 @@ li{
         display: block;
         margin-left: auto;
         margin-right: auto;
-        max-width: 60%;
+        max-width: 70%;
     }
     #freja {
         display: block;
         margin-left: auto;
         margin-right: auto;
-        width: 70%;
-        height: 70%;
+        width: 60%;
+        height: 60%;
     }
 
     .content {
@@ -153,7 +153,7 @@ li{
 
       margin-left: auto;
         margin-right: auto;
-        max-width: 50%;
+        max-width: 60%;
 
     }
    
@@ -162,7 +162,7 @@ li{
 
         margin-left: auto;
           margin-right: auto;
-          max-width: 50%;
+          max-width: 60%;
     } 
     
     /* Andre elementer */
