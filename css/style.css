@@ -37,6 +37,7 @@ h3{
     
 p{
     font-family:var(--broedtekst);
+    font-size: var(--broedtekst);
  width: 60%;
   margin-left: auto;
   margin-right: auto;
