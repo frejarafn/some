@@ -91,14 +91,8 @@ li{
     margin-left: 20%;
 }
    
-.kalender{
-    margin: 5%;
-}    
 
-.content {
-    margin: 5%;
-    max-width: 1em;
-}
+
 
     /* Billeder */
     #banner{
@@ -154,4 +148,21 @@ li{
         height: 70%;
     }
 
+    .content {
+        display: block;
+
+      margin-left: auto;
+        margin-right: auto;
+        max-width: 50%;
+
+    }
+   
+    .kalender{
+        display: block;
+
+        margin-left: auto;
+          margin-right: auto;
+          max-width: 50%;
+    } 
+    
     /* Andre elementer */
