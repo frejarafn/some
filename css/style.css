@@ -5,16 +5,15 @@
 }
 
 *{
-    margin: 0;
-    /* padding: 0; */
+     margin: 0; 
+    padding: 0; 
     box-sizing: border-box;
     scroll-behavior: smooth;
     }
     
-    body, html {
+    body, html { 
       height: 100%;
       width: 100%;
-      margin: 0;
       overflow-x: hidden;
     }
 
@@ -22,37 +21,44 @@
 
  h1{
      font-family: var(--overskrift);
-  text-align: center;
 
  }  
 
  h2{
     font-family: var(--overskrift);
-  text-align: center;
 
-} 
+  }
 
 h3{
     font-family: var(--overskrift);
-  text-align: center;
+  
 
 }
     
 p{
     font-family:var(--broedtekst);
-    width: 60%;
+ width: 60%;
   margin-left: auto;
   margin-right: auto;
 }
 
 li{
     font-family:var(--broedtekst);
-
-    list-style-type: circle;
+    list-style-type:circle;
     width: 20%;
     margin-left: auto;
     margin-right: auto;
   
+}
+
+/* classes */
+
+.pad{
+    padding-left: 287px;
+}
+
+.pad2{
+    padding-left: 563px;
 }
    
 
